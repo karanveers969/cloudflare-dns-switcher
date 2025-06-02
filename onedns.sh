@@ -12,7 +12,7 @@ banner="${BLUE}
   ___             ____  _   _ ____  
  / _ \ _ __   ___|  _ \| \ | / ___| 
 | | | | '_ \ / _ \ | | |  \| \___ \ 
-| |_| | | | |  __/ |_| | |\  |___) | | github BDadmehr0/onedns
+| |_| | | | |  __/ |_| | |\  |___) | | github karanveers969/cloudflare-dns-switcher
  \___/|_| |_|\___|____/|_| \_|____/  | V.2 (Cloudflare Only)${WHITE}\n"
 
 # Check requirements
