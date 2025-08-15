@@ -147,7 +147,7 @@ while true; do
             change_dns_to_cloudflare
             ;;
         5)
-            echo -e "${GREEN}OneDNS is a lightweight DNS tool for Linux using only Cloudflare DNS. Developed by BDadmehr0 on GitHub.${WHITE}"
+            echo -e "${GREEN}OneDNS is a lightweight DNS tool for Linux using only Cloudflare DNS. Developed by karanveers969 on GitHub.${WHITE}"
             ;;
         6)
             echo -e "${GREEN}$(cat /etc/resolv.conf)${WHITE}"
